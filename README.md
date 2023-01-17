@@ -25,7 +25,7 @@ Here is the dataset used in the project - https://github.com/Math-Muniz/Basic-of
 
 Here you can access the table's architecture - https://github.com/Math-Muniz/Basic-of-Data-Engineering-with-AWS/blob/main/Cloud-series-DE-Project.drawio
 
-##Other Links
+## Other Links
 
 1. https://aws.amazon.com/pt/blogs/big-data/exploring-the-public-aws-covid-19-data-lake/
 2. https://aws.amazon.com/pt/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
